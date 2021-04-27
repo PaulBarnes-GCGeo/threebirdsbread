@@ -1,0 +1,124 @@
+/* body {
+  background-color: #663d45;
+} */
+
+div {
+  text-align: center;
+}
+
+ul {
+  color: #a97b57;
+}
+
+
+
+.textblock {
+  font-family: "Montserrat";
+  font-weight: 100;
+  color: #a97b57;
+  font-size: 1.5rem;
+  padding-top: 40px;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  width: 90%;
+}
+
+.logoimage {
+  display: inline-flex;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+  border-radius: 50%;
+}
+
+.birdsimage {
+  display: inline-flex;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 30px;
+  width: 30%;
+  border-radius: 50%;
+}
+
+.darktext {
+  text-align: center;
+  color: black;
+}
+
+/* .soon {
+  font-family: Arial, Helvetica, sans-serif;
+  color: black;
+  font-weight: bold;
+  text-align: center;
+  padding-top: 20px;
+} */
+
+/* Title Section */
+#title .container-fluid {
+  padding: 3% 15% 3%;
+  text-align: left;
+  color: black;
+}
+
+/* Sections */
+.color-section {
+  background-color: #663d45;
+  color: black;
+}
+
+.white-section {
+  background-color: #fff;
+}
+
+/* Navigation Bar */
+.navbar-brand {
+  font-family: "Montserrat";
+  font-size: 2rem;
+  font-weight: 500;
+  color: #a97b57;
+}
+
+.nav-item {
+  padding: 0 18px 0 18px;
+  color: #a97b57;
+}
+
+.nav-link {
+  font-size: 1.2rem;
+  font-family: "Montserrat";
+  font-weight: 100;
+  color: #a97b57;
+}
+
+/* breads section */
+#breads {
+  padding: 5% 10%;
+  position: relative;
+  background-color: #fff;
+  color: black;
+}
+
+/* about section */
+#about {
+  padding: 5% 10%;
+  position: relative;
+  background-color: #663d45;
+}
+
+/* contact section */
+#contact {
+  padding: 7% 10%;
+  position: relative;
+  background-color: #663d45;
+}
+
+footer {
+margin: auto;
+position: relative;
+}
+
+.social-icon {
+  margin: 20px 10px;
+  position: relative;
+}
